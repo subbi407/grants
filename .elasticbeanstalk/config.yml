@@ -1,6 +1,7 @@
 branch-defaults:
   master:
     environment: grants-dev
+    group_suffix: null
 global:
   application_name: grants
   branch: null
