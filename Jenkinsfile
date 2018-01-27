@@ -11,8 +11,4 @@ node { // <1>
 }
 Output 
 
-kjabvkjzbkjvbzklhilHDIQHEKL Q
-
-subbi
-manohar
-manohar
+Hi
